@@ -1,4 +1,4 @@
-# JavaScript Fundamentals: JavaScript Variables Lab
+lear# JavaScript Fundamentals: JavaScript Variables Lab
 
 ## Learning Goals
 
